@@ -12,11 +12,11 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'Exchange',
-        href: 'https://exchange.rockswap.finance/',
+        href: 'https://masterchef.exchange/#/swap',
       },
       {
         label: 'Liquidity',
-        href: 'https://exchange.rockswap.finance/#/pool',
+        href: 'https://masterchef.exchange/#/pool',
       },
     ],
   },
@@ -51,7 +51,7 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'PancakeSwap',
-        href: 'https://pancakeswap.info/token/0x5f26be59d28e0b3a9c58e242a58acc05e000f4ad',
+        href: 'https://pancakeswap.info/token/0x76CDde7A96C38B482f5aefffb51c8da9dF25b868',
       },
     ],
   },
@@ -61,11 +61,11 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'Github',
-        href: 'https://github.com/rockswapfinance/',
+        href: '/',
       },
       {
         label: 'Blog',
-        href: 'https://rockswap.medium.com/',
+        href: '/',
       },
     ],
   },
