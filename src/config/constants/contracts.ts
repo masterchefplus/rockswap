@@ -1,10 +1,10 @@
 export default {
   cake: {
-    56: '0x9ae6F29174d4668fBd6830D2973bE5B93C3f6CF9',
+    56: '0x76CDde7A96C38B482f5aefffb51c8da9dF25b868',
     97: '',
   },
   masterChef: {
-    56: '0xFE3E485a958bbb7f818FfA865e53deb7D967ccBf',
+    56: '0x886943d6496f0545b15e97d5e5896A37676c33d6', // This is old Rock MasterChef need change to my MasterChef 0xA1814191DB5d5CFb41728025924Cca56fBd53951
     97: '',
   },
   wbnb: {
